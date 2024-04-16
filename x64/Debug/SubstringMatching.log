@@ -1,0 +1,5 @@
+﻿  mpi.cpp
+C:\Users\Novikov\source\repos\SubstringMatching\mpi.cpp(18,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Novikov\source\repos\SubstringMatching\mpi.cpp(19,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Novikov\source\repos\SubstringMatching\mpi.cpp(44,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SubstringMatching.vcxproj -> C:\Users\Novikov\source\repos\SubstringMatching\x64\Debug\SubstringMatching.exe
